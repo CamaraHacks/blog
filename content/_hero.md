@@ -1,3 +1,1 @@
-##### Welcome to Marmite
-
-![winxp](/~/workspace/content/winxp.jpg "win_xp")
+![winxp](/media/winxp.jpg "win_xp")

@@ -1,1 +1,1 @@
-![winxp](/media/winxp.jpg "win_xp")
+![winxp](media/winxp.jpg "win_xp")

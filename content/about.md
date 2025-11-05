@@ -1,7 +1,8 @@
-# About you
+# Sobre mim
 
-Talk about you!
+Oi, bem vindo ao meu blog! 
+Aqui eu compartilho algumas ideias e coisas que acho que valem a pena serem relemebradas ou mencionadas. 
 
-Use all markdown 
 
-read more on https://rochacbruno.github.io/marmite/markdown-format.html
+Fique a vontade!
+

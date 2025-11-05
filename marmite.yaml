@@ -2,10 +2,10 @@ name: Camarada.dev
 tagline: Compartilhando Strings
 url: https://camarahacks.github.io/blog
 menu:
-  - ["About", "about.html"]
-  - ["Pages", "pages.html"]
+  - ["Sobre mim", "about.html"]
+  - ["Páginas", "pages.html"]
   - ["Tags", "tags.html"]
-  - ["Follow me", "https://mastodon.social/@C_Hacks"]
+  - ["Me segue lá", "https://mastodon.social/@C_Hacks"]
   - ["Github", "https://github.com/camarahacks"]
 
 

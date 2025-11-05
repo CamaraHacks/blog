@@ -1,12 +1,12 @@
-name: Your Blog
-tagline: Things you talk about
-url: https://YOURUSER.github.io/blog
+name: Camarada.dev
+tagline: Compartilhando Strings
+url: https://camarahacks.github.io/blog
 menu:
   - ["About", "about.html"]
   - ["Pages", "pages.html"]
   - ["Tags", "tags.html"]
-  - ["Follow me", "https://mastodon.social/@YOURUSER"]
-  - ["Github", "https://github.com/rochacbruno/marmite"]
+  - ["Follow me", "https://mastodon.social/@C_Hacks"]
+  - ["Github", "https://github.com/camarahacks"]
 
 
 # More options available to customize the website

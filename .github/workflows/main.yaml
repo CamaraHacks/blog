@@ -25,11 +25,15 @@ jobs:
       - name: Checkout 🛎
         uses: actions/checkout@v4
 
-      - name: Install marmite 🫙
-        run: cargo install marmite
+      - name: Setup Marmite 🫙
+        run: |
+          curl -L https://github.com/rochacbruno/marmite/releases/latest/download/marmite-linux-x86_64.tar.gz | tar xz
+          sudo mv marmite /usr/local/bin/
 
-      - name: Build site 🏗️
-        run: marmite . site --debug
+      - name: Clean and Build site 🏗️
+        run: |
+          rm -rf site
+          marmite . site -vv
 
       - name: Setup Pages
         uses: actions/configure-pages@v5

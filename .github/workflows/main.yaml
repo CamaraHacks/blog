@@ -27,8 +27,10 @@ jobs:
 
       - name: Setup Marmite 🫙
         run: |
-          curl -L https://github.com/rochacbruno/marmite/releases/latest/download/marmite-linux-x86_64.tar.gz | tar xz
+          curl -L -o marmite.tar.gz https://github.com/rochacbruno/marmite/releases/latest/download/marmite-x86_64-unknown-linux-musl.tar.gz
+          tar -xzf marmite.tar.gz
           sudo mv marmite /usr/local/bin/
+          rm marmite.tar.gz
 
       - name: Clean and Build site 🏗️
         run: |

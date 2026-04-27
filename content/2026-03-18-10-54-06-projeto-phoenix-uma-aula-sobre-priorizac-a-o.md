@@ -1,3 +1,6 @@
+---
+tags: projeto-phoenix,liderança,priorização,planejamento,engenharia-de-software
+---
 # Projeto Phoenix: uma aula sobre priorização
 
 Recentemente terminei de ler "O Projeto Phoenix", e essa leitura foi muito produtiva não só em conhecimento, mas o ponto mais significativo para mim foi o reconhecimento de padrões dentro do livro que vemos muitas vezes aqui fora. Nós (pessoas técnicas) temos a ingenuidade de supor que as pessoas que estão em cadeiras de nível C tenham o conhecimento das relações e consequências de como ações não planejadas e tomadas sem pragmatismo podem ser negativas para o ambiente de trabalho e para o negócio como um todo.

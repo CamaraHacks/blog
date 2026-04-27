@@ -1,8 +1,13 @@
+---
+tags: engenharia,software,abstração,design,meta,reflexão
+---
 Metanoia: Por que o futuro da Engenharia de Software não é sobre código, mas sobre abstração e design.
 
 Recentemente, minha percepção da realidade tem sofrido algumas mudanças e eu me vejo como no mito da caverna de Platão muitas vezes, acreditando que sombras são o que importam e qualquer coisa que tire essas sombras da nossa visão, é algo que é profano ou inviável. Não há espaço pra pensar o futuro com os mesmos modelos mentais do passado. É normal nos sentirmos desconfortáveis e com incertezas. E com isso em mente, comecei a refletir como cada época, com seus próprios problemas e paradigmas, precisou absorver o impacto de novas tecnologias e como isso transformou a visão de mundo das pessoas que viveram aquele momento.
 
-imagine um feixe de luz descendo pelo vidro manufaturado da janela do escritório e pense comigo, o que um carpinteiro nascido antes de Cristo pensaria dessa peça? Como o reconhecimento de tal artefato mudaria a relação dele com o mundo e como ele lidaria com as incertezas que essa nova visão traria? 
+imagine um feixe de luz descendo pelo vidro manufaturado da janela do escritório e pense comigo, o que um carpinteiro nascido antes de Cristo pensaria dessa peça? Como o reconhecimento de tal artefato mudaria a relação dele com o mundo e como ele lidaria com as incertezas que essanova visão traria? 
+
+[metanoia.jpg]
 
 Ao longo da história, esses saltos acontecem em períodos cada vez menores.
 

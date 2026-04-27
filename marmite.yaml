@@ -5,8 +5,10 @@ menu:
   - ["Sobre mim", "about.html"]
   - ["Páginas", "pages.html"]
   - ["Tags", "tags.html"]
-  - ["Me segue lá", "https://mastodon.social/@C_Hacks"]
   - ["Github", "https://github.com/camarahacks"]
+  - ["LinkedIn", "https://www.linkedin.com/in/camarahacks"]
+
+favicon: 🫙
 
 
 # More options available to customize the website

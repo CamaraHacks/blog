@@ -1,11 +1,13 @@
 name: Camarada.dev
-tagline: Compartilhando Strings
+tagline: Engenharia de plataforma, sistemas e tecnologia em contexto real.
 url: https://camarahacks.github.io/blog
+language: pt
+default_date_format: "%d/%m/%Y"
 menu:
-  - ["Sobre mim", "about.html"]
-  - ["Páginas", "pages.html"]
-  - ["Tags", "tags.html"]
-  - ["Github", "https://github.com/camarahacks"]
+  - ["Artigos", "index.html"]
+  - ["Sobre", "about.html"]
+  - ["Projetos", "projetos.html"]
+  - ["GitHub", "https://github.com/camarahacks"]
   - ["LinkedIn", "https://www.linkedin.com/in/camarahacks"]
 
 favicon: 🫙

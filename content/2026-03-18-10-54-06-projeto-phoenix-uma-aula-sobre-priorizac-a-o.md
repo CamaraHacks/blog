@@ -1,5 +1,5 @@
 ---
-tags: projeto-phoenix,liderança,priorização,planejamento,engenharia-de-software
+tags: projeto-phoenix,liderança,priorização,planejamento,engenharia-de-software,ensaio
 ---
 # Projeto Phoenix: uma aula sobre priorização
 

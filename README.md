@@ -1,6 +1,6 @@
 # Camarada.dev
 
-Compartilhando Strings - Um blog sobre engenharia de software, arquitetura, e reflexiones sobre tecnologia.
+Engenharia de plataforma, sistemas e tecnologia em contexto real.
 
 ## Posts
 
@@ -10,5 +10,5 @@ Compartilhando Strings - Um blog sobre engenharia de software, arquitetura, e re
 
 ## Contato
 
-- [Github](https://github.com/camarahacks)
+- [GitHub](https://github.com/camarahacks)
 - [LinkedIn](https://www.linkedin.com/in/camarahacks)

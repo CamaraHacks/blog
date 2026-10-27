@@ -4,6 +4,9 @@ series: sdlc-ponta-a-ponta
 ---
 # Desenhando soluções ponta a ponta
 
+![Mãos puxando fios conectados a uma cabeça frenológica diante de um painel de computador antigo](media/threads-of-cognition.jpg)
+*Hanna Barakat & Cambridge Diversity Fund, "Turning Threads of Cognition", [Better Images of AI](https://betterimagesofai.org) / [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)*
+
 Todos lutamos contra a força da entropia, e na engenharia de software não seria diferente. A quantidade de coisas que um engenheiro precisa manter na memória de trabalho é imensa: o código, os mecanismos internos de cada aplicação, como ela é implantada, onde ficam as credenciais, o que quebra se algo mudar.
 
 Peter Naur, em *Programming as Theory Building* [1], argumenta que um programa não é só o código: é a teoria que vive na cabeça de quem o construiu, e essa teoria nunca se transfere por completo via documentação. Se isso é verdade, nosso trabalho não pode depender de cada pessoa reconstruir sozinha a teoria inteira do sistema antes de conseguir entregar algo com segurança.

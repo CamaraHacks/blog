@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 560" role="img" aria-labelledby="t d">
+  <title id="t">O trilho da série</title>
+  <desc id="d">As seis peças da série empilhadas por dependência: infraestrutura como código na base, depois gerenciamento de segredos, pipeline, testes e segurança ao lado de observabilidade, e o golden path no topo.</desc>
+  <defs>
+    <marker id="seta" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0 0 L10 5 L0 10 z" fill="#2f5c44"/>
+    </marker>
+    <style>
+      .nome { font: 600 17px system-ui, -apple-system, "Segoe UI", sans-serif; fill: #1d3f2e; }
+      .sub  { font: 13px system-ui, -apple-system, "Segoe UI", sans-serif; fill: #4a5a50; }
+      .num  { font: 600 13px ui-monospace, Menlo, Consolas, monospace; fill: #2f5c44; }
+      .caixa { fill: #ffffff; stroke: #1d3f2e; stroke-width: 1.5; }
+      .seta { stroke: #2f5c44; stroke-width: 1.5; fill: none; marker-end: url(#seta); }
+      .lado { font: 12px ui-monospace, Menlo, Consolas, monospace; fill: #6b7a70; letter-spacing: .08em; }
+    </style>
+  </defs>
+
+  <rect width="640" height="560" rx="14" fill="#f6f4ec"/>
+
+  <!-- eixo lateral -->
+  <line x1="96" y1="470" x2="96" y2="96" class="seta"/>
+  <text class="lado" x="84" y="290" text-anchor="middle" transform="rotate(-90 84 290)">CADA PEÇA APOIA A DE CIMA</text>
+
+  <!-- 6. Golden path -->
+  <rect x="160" y="60" width="400" height="60" rx="10" fill="#1d3f2e"/>
+  <text class="num" x="176" y="86" style="fill:#9ad6a6">06</text>
+  <text class="nome" x="360" y="86" text-anchor="middle" style="fill:#ffffff">Golden path</text>
+  <text class="sub" x="360" y="106" text-anchor="middle" style="fill:#cfe4d6">o trilho que qualquer pessoa do time segue</text>
+
+  <!-- 4. Testes e segurança -->
+  <rect class="caixa" x="160" y="160" width="190" height="60" rx="10"/>
+  <text class="num" x="174" y="186">04</text>
+  <text class="nome" x="266" y="186" text-anchor="middle" style="font-size:15px">Testes e segurança</text>
+  <text class="sub" x="255" y="206" text-anchor="middle">confiar no pipeline</text>
+
+  <!-- 5. Observabilidade -->
+  <rect class="caixa" x="370" y="160" width="190" height="60" rx="10"/>
+  <text class="num" x="384" y="186">05</text>
+  <text class="nome" x="476" y="186" text-anchor="middle" style="font-size:15px">Observabilidade</text>
+  <text class="sub" x="465" y="206" text-anchor="middle">depois do deploy</text>
+
+  <!-- 3. Pipeline -->
+  <rect class="caixa" x="160" y="260" width="400" height="60" rx="10"/>
+  <text class="num" x="176" y="286">03</text>
+  <text class="nome" x="360" y="286" text-anchor="middle">Pipeline</text>
+  <text class="sub" x="360" y="306" text-anchor="middle">do commit até a produção</text>
+
+  <!-- 2. Segredos -->
+  <rect class="caixa" x="160" y="360" width="400" height="60" rx="10"/>
+  <text class="num" x="176" y="386">02</text>
+  <text class="nome" x="360" y="386" text-anchor="middle">Gerenciamento de segredos</text>
+  <text class="sub" x="360" y="406" text-anchor="middle">credenciais fora do código e das mensagens</text>
+
+  <!-- 1. IaC -->
+  <rect x="160" y="460" width="400" height="60" rx="10" fill="#cfe4d6" stroke="#1d3f2e" stroke-width="1.5"/>
+  <text class="num" x="176" y="486">01</text>
+  <text class="nome" x="360" y="486" text-anchor="middle">Infraestrutura como código</text>
+  <text class="sub" x="360" y="506" text-anchor="middle">a base de todo o resto</text>
+
+  <!-- dependências -->
+  <line x1="360" y1="460" x2="360" y2="424" class="seta"/>
+  <line x1="360" y1="360" x2="360" y2="324" class="seta"/>
+  <line x1="320" y1="260" x2="262" y2="224" class="seta"/>
+  <line x1="400" y1="260" x2="458" y2="224" class="seta"/>
+  <line x1="255" y1="160" x2="300" y2="124" class="seta"/>
+  <line x1="465" y1="160" x2="420" y2="124" class="seta"/>
+</svg>

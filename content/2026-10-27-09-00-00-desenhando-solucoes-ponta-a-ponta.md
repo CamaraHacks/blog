@@ -32,6 +32,8 @@ Esta é uma série semanal sobre como desenhar o ciclo de vida de desenvolviment
 5. **Observabilidade:** o que acontece depois do deploy
 6. **Golden path:** juntando tudo em um trilho que qualquer pessoa do time consiga seguir
 
+![Diagrama das seis peças da série empilhadas por dependência, da infraestrutura como código na base até o golden path no topo](media/sdlc-trilho.svg)
+
 O objetivo é construir esse trilho, peça por peça: menos toil, menos snowflake, menos deploy feito com medo e menos conhecimento que só existe na cabeça de alguém.
 
 ## Referências

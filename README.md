@@ -7,6 +7,7 @@ Engenharia de plataforma, sistemas e tecnologia em contexto real.
 - [Hello world](/content/2025-11-05-10-43-37-hello-world.md) - 05/11/2025
 - [Projeto Phoenix: uma aula sobre priorização](/content/2026-03-18-10-54-06-projeto-phoenix-uma-aula-sobre-priorizac-a-o.md) - 18/03/2026
 - [Metanoia: Por que o futuro da Engenharia de Software](/content/2026-04-23-15-08-00-metanoia-e-engenharia-de-software.md) - 23/04/2026
+- [Desenhando soluções ponta a ponta](/content/2026-10-27-09-00-00-desenhando-solucoes-ponta-a-ponta.md) - 27/10/2026
 
 ## Contato
 
